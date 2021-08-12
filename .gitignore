@@ -9,6 +9,16 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.txt
+*.ts
+*.m3u8
+*.vtt
+lang-options
+my-info
+search
+unread-count
+video-category-options
+video-type-options
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
